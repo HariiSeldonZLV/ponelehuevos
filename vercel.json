@@ -1,6 +1,0 @@
-{
-  "buildCommand": "ng build",
-  "outputDirectory": "dist/ponele-huevos/browser",
-  "framework": "angular",
-  "installCommand": "npm install"
-}
